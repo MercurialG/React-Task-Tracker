@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Buy cheese",
+      "day": "April 20 at 2:30pm",
+      "reminder": false
+    },
+    {
+      "id": 2,
+      "text": "Buy dog food",
+      "day": "April 21 at 1:30pm",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "Buy cookies",
+      "day": "April 20 at 6:37am",
+      "reminder": true
+    }
+  ]
+}
